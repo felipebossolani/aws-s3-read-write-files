@@ -1,9 +1,9 @@
 # aws-s3-read-write-files
-##English
+#English
 
 Example of how to Read and Write files located on AWS S3
 
-##Portuguese 
+#Português
 
 Exemplo de como se ler e escrever arquivos localizados na amazon S3 utilizando ASP.NET core 3.1 (linguagem C#). 
 
