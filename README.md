@@ -4,7 +4,7 @@
 Example of how to Read and Write files located on AWS S3
 
 Fill appsetting.json with your AWS Credentials:
-'''
+```
 {
 	"AWS": {
 		"Credential": {
@@ -16,7 +16,7 @@ Fill appsetting.json with your AWS Credentials:
 		}
 	}
 }
-
+```
 ### There are 2 methods:
 #### UploadFileAsync
 For upload example
@@ -24,13 +24,12 @@ For upload example
 #### ReadObjectDataAsync
 For read example
 
-'''
 ## Português
 
 Exemplo de como se ler e escrever arquivos localizados na amazon S3 utilizando ASP.NET core 3.1 (linguagem C#). 
 
 Preencha o arquivo appsetting.json com seus dados de usuário na Amazon:
-'''
+```
 {
 	"AWS": {
 		"Credential": {
@@ -42,7 +41,7 @@ Preencha o arquivo appsetting.json com seus dados de usuário na Amazon:
 		}
 	}
 }
-'''
+```
 
 ### Temos 2 métodos:
 #### UploadFileAsync
